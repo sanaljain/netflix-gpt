@@ -6,3 +6,4 @@
 - Created Header
 - Background Image
 - Login Form
+- Creating custom hooks useNowPlayingMovies.js to fetch list of movies
